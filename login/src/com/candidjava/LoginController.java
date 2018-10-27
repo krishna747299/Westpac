@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class LoginController
+ * Servlet implementation class LoginController added
  */
 public class LoginController extends HttpServlet {
 	
